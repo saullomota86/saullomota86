@@ -23,7 +23,7 @@ A **Full Stack Developer** from **Brazil 🇧🇷**
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white)
 
 
-<!--
+
 **saullomota86/saullomota86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
